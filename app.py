@@ -14,7 +14,7 @@ model = genai.GenerativeModel("gemini-2.5-flash")
 model = genai.GenerativeModel("gemini-2.5-flash")
 
 st.set_page_config(
-    page_title="AI Code Review Assistant",
+    page_title="🤖AI Code Review Assistant",
     layout="wide"
 )
 
